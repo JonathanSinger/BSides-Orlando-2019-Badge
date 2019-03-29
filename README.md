@@ -6,9 +6,9 @@ Thank you to all Sponsors, Speakers, Donors, Staff, and Attendees who made to ou
 Unique digial badges created for Security B-Sides Orlando. These badges utilize a Digispark as the primary embedded system paired with a MAX7219 and 8x8 LED Matrix Display.
 
 ### Assembly
-Solder all headers on the base board badge.
-Solder all headers on the LED Matrix Module
-Attach the modules, IN and OUT labeled on the Matrix Module.
+* Solder all headers on the base board badge.
+* Solder all headers on the LED Matrix Module.
+* Attach the modules, IN and OUT labeled on the Matrix Module.
 
 ### Installation of Software and Drivers
 Please read the steps provided here:
