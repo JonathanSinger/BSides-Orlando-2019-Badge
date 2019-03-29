@@ -27,4 +27,5 @@ Click the Verify check button.
 
 ### FAQ
 **What does this thing do?**
+
 Scrolls text, but the platform is capable of so many more things. Explore the Digistump website to see what else you can do with your new hardware.
